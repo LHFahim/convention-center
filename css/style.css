@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #e5e5e5;
+  font-family: "Roboto", sans-serif;
+}
+
+/*--------------------------
+      navigation
+----------------------------- */
+/* .navbar {
+  height: 80px;
+} */
+
+nav {
+  background-color: #e5e5e5;
+}
+
+/*--------------------
+  bannern section
+---------------------- */
+
+.btn-light {
+  color: #3f87f5;
+}
+
+.banner-section {
+  /* border: 1px solid red; */
+}
+
+/* album */
+
+.mt-100 {
+  margin-top: 100px;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+/* .a,
+.b {
+  border: 1px solid red;
+} */
+.experience-btn {
+  background-color: #3f87f5;
+}
