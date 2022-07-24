@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
 
@@ -26,9 +26,7 @@ nav {
   color: #3f87f5;
 }
 
-.banner-section {
-  /* border: 1px solid red; */
-}
+/*  */
 
 /* album */
 
@@ -40,9 +38,37 @@ nav {
 }
 
 /* .a,
-.b {
+.b,
+.c {
   border: 1px solid red;
 } */
 .experience-btn {
   background-color: #3f87f5;
+}
+
+/*--------------------
+      package section
+---------------------- */
+.active-card {
+  background-color: #3f87f5;
+}
+
+.card-text {
+  color: #6c6c6c;
+}
+
+.card-title {
+  color: #0c1920;
+}
+
+/* qna section */
+
+/* .qa-container {
+  height: 1130px;
+} */
+
+.qa-img {
+  /* width: 546px;
+  height: 350px; */
+  /* margin: auto 0; */
 }
