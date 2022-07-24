@@ -15,8 +15,17 @@ body {
 } */
 
 nav {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
+
+  /* border: 5px solid red; */
 }
+
+/* .brand {
+  border: 1px solid red;
+}
+.s {
+  border: 1px solid red;
+} */
 
 /*--------------------
   banner section
@@ -70,9 +79,3 @@ nav {
 /* .qa-container {
   height: 1130px;
 } */
-
-.qa-img {
-  /* width: 546px;
-  height: 350px; */
-  /* margin: auto 0; */
-}
